@@ -2,10 +2,10 @@
     transition: opacity 0.4s 0.2s;
   }
   p{
-    margin-top: 8vw;
-    padding-top: 20px;
+    /*margin-top: 8vw;
+    padding-top: 20px;*/
     text-align: center;
-    font-size: 5vw;
+    font-size: 4vw;
     color: #000000;
   }
   .page {
